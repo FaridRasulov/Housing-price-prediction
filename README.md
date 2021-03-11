@@ -1,5 +1,8 @@
 # Housing price prediction
 
+CLICK HERE TO SEE THE NOTEBOOK:
+https://nbviewer.jupyter.org/github/FaridRasulov/Housing-price-prediction/blob/master/project.ipynb
+
 ## Data Tidying: 
 
 1.Combined the train set and the test set: obtained the data dataset 
