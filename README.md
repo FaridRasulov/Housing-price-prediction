@@ -1,6 +1,7 @@
 # Housing price prediction
 
-CLICK HERE TO SEE THE NOTEBOOK:
+# CLICK HERE TO SEE THE NOTEBOOK:
+
 https://nbviewer.jupyter.org/github/FaridRasulov/Housing-price-prediction/blob/master/project.ipynb
 
 ## Data Tidying: 
